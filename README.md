@@ -1,1 +1,1 @@
-# Semi-supervised-target-detector-for-hyperspectral-images
+# Semi supervised hyperspectral target detector with implicit contrastive learning
